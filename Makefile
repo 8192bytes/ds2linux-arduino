@@ -1,2 +1,2 @@
 all:
-	gcc linux_driver.c -o linux_driver
+	gcc linux_driver.c -o ds2linux
